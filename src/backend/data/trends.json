@@ -1,0 +1,46 @@
+{
+  "trends": {
+    "ALT": [
+      { "date": "2021-03-05", "value": 22.0, "status": "NORMAL" },
+      { "date": "2022-03-08", "value": 28.0, "status": "NORMAL" },
+      { "date": "2023-03-10", "value": 35.0, "status": "NORMAL" },
+      { "date": "2024-03-12", "value": 52.0, "status": "WARNING" },
+      { "date": "2025-03-15", "value": 74.0, "status": "CRITICAL" }
+    ],
+    "GLU_AC": [
+      { "date": "2021-03-05", "value": 88.0, "status": "NORMAL" },
+      { "date": "2022-03-08", "value": 92.0, "status": "NORMAL" },
+      { "date": "2023-03-10", "value": 95.0, "status": "NORMAL" },
+      { "date": "2024-03-12", "value": 102.0, "status": "WARNING" },
+      { "date": "2025-03-15", "value": 110.0, "status": "WARNING" }
+    ],
+    "CHOL": [
+      { "date": "2021-03-05", "value": 180.0, "status": "NORMAL" },
+      { "date": "2022-03-08", "value": 185.0, "status": "NORMAL" },
+      { "date": "2023-03-10", "value": 195.0, "status": "NORMAL" },
+      { "date": "2024-03-12", "value": 210.0, "status": "WARNING" },
+      { "date": "2025-03-15", "value": 245.0, "status": "CRITICAL" }
+    ],
+    "TG": [
+      { "date": "2021-03-05", "value": 110.0, "status": "NORMAL" },
+      { "date": "2022-03-08", "value": 120.0, "status": "NORMAL" },
+      { "date": "2023-03-10", "value": 130.0, "status": "NORMAL" },
+      { "date": "2024-03-12", "value": 140.0, "status": "NORMAL" },
+      { "date": "2025-03-15", "value": 145.0, "status": "NORMAL" }
+    ],
+    "UA": [
+      { "date": "2021-03-05", "value": 5.8, "status": "NORMAL" },
+      { "date": "2022-03-08", "value": 6.0, "status": "NORMAL" },
+      { "date": "2023-03-10", "value": 6.2, "status": "NORMAL" },
+      { "date": "2024-03-12", "value": 6.8, "status": "NORMAL" },
+      { "date": "2025-03-15", "value": 7.5, "status": "CRITICAL" }
+    ],
+    "HBA1C": [
+      { "date": "2021-03-05", "value": 5.0, "status": "NORMAL" },
+      { "date": "2022-03-08", "value": 5.2, "status": "NORMAL" },
+      { "date": "2023-03-10", "value": 5.4, "status": "NORMAL" },
+      { "date": "2024-03-12", "value": 5.8, "status": "WARNING" },
+      { "date": "2025-03-15", "value": 6.2, "status": "WARNING" }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "reports": [
+    {
+      "report_id": "rep_2025",
+      "checkup_date": "2025-03-15",
+      "institution_name": "國泰綜合健檢中心",
+      "total_biomarkers_found": 10,
+      "abnormal_count": 5,
+      "records": [
+        { "biomarker_key": "GLU_AC", "display_name": "飯前血糖 (AC)", "numerical_value": 110.0, "unit": "mg/dL", "reference_range": "70 ~ 99", "status_flag": "WARNING" },
+        { "biomarker_key": "HBA1C", "display_name": "糖化血色素 (HbA1c)", "numerical_value": 6.2, "unit": "%", "reference_range": "4.0 ~ 5.6", "status_flag": "WARNING" },
+        { "biomarker_key": "CHOL", "display_name": "總膽固醇 (TC)", "numerical_value": 245.0, "unit": "mg/dL", "reference_range": "< 200", "status_flag": "CRITICAL" },
+        { "biomarker_key": "ALT", "display_name": "丙胺酸轉胺酶 (ALT/GPT)", "numerical_value": 74.0, "unit": "U/L", "reference_range": "< 40", "status_flag": "CRITICAL" },
+        { "biomarker_key": "UA", "display_name": "尿酸 (UA)", "numerical_value": 7.5, "unit": "mg/dL", "reference_range": "3.4 ~ 7.2", "status_flag": "CRITICAL" },
+        { "biomarker_key": "TG", "display_name": "三酸甘油酯 (TG)", "numerical_value": 145.0, "unit": "mg/dL", "reference_range": "< 150", "status_flag": "NORMAL" },
+        { "biomarker_key": "HDL", "display_name": "高密度脂蛋白 (HDL-C)", "numerical_value": 42.0, "unit": "mg/dL", "reference_range": "> 40", "status_flag": "NORMAL" },
+        { "biomarker_key": "LDL", "display_name": "低密度脂蛋白 (LDL-C)", "numerical_value": 125.0, "unit": "mg/dL", "reference_range": "< 130", "status_flag": "NORMAL" },
+        { "biomarker_key": "AST", "display_name": "天門冬胺酸轉胺酶 (AST/GOT)", "numerical_value": 38.0, "unit": "U/L", "reference_range": "< 40", "status_flag": "NORMAL" },
+        { "biomarker_key": "EGFR", "display_name": "腎絲球過濾率 (eGFR)", "numerical_value": 92.0, "unit": "mL/min", "reference_range": ">= 90", "status_flag": "NORMAL" }
+      ]
+    },
+    {
+      "report_id": "rep_2024",
+      "checkup_date": "2024-03-12",
+      "institution_name": "國泰綜合健檢中心",
+      "total_biomarkers_found": 10,
+      "abnormal_count": 2,
+      "records": [
+        { "biomarker_key": "GLU_AC", "display_name": "飯前血糖 (AC)", "numerical_value": 102.0, "unit": "mg/dL", "reference_range": "70 ~ 99", "status_flag": "WARNING" },
+        { "biomarker_key": "ALT", "display_name": "丙胺酸轉胺酶 (ALT/GPT)", "numerical_value": 52.0, "unit": "U/L", "reference_range": "< 40", "status_flag": "WARNING" },
+        { "biomarker_key": "CHOL", "display_name": "總膽固醇 (TC)", "numerical_value": 210.0, "unit": "mg/dL", "reference_range": "< 200", "status_flag": "WARNING" }
+      ]
+    },
+    {
+      "report_id": "rep_2023",
+      "checkup_date": "2023-03-10",
+      "institution_name": "國泰綜合健檢中心",
+      "total_biomarkers_found": 10,
+      "abnormal_count": 0,
+      "records": [
+        { "biomarker_key": "GLU_AC", "display_name": "飯前血糖 (AC)", "numerical_value": 95.0, "unit": "mg/dL", "reference_range": "70 ~ 99", "status_flag": "NORMAL" },
+        { "biomarker_key": "ALT", "display_name": "丙胺酸轉胺酶 (ALT/GPT)", "numerical_value": 35.0, "unit": "U/L", "reference_range": "< 40", "status_flag": "NORMAL" }
+      ]
+    },
+    {
+      "report_id": "rep_2022",
+      "checkup_date": "2022-03-08",
+      "institution_name": "美兆診所",
+      "total_biomarkers_found": 10,
+      "abnormal_count": 0,
+      "records": [
+        { "biomarker_key": "ALT", "display_name": "丙胺酸轉胺酶 (ALT/GPT)", "numerical_value": 28.0, "unit": "U/L", "reference_range": "< 40", "status_flag": "NORMAL" }
+      ]
+    },
+    {
+      "report_id": "rep_2021",
+      "checkup_date": "2021-03-05",
+      "institution_name": "美兆診所",
+      "total_biomarkers_found": 10,
+      "abnormal_count": 0,
+      "records": [
+        { "biomarker_key": "ALT", "display_name": "丙胺酸轉胺酶 (ALT/GPT)", "numerical_value": 22.0, "unit": "U/L", "reference_range": "< 40", "status_flag": "NORMAL" }
+      ]
+    }
+  ]
+}
